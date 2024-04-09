@@ -1,0 +1,13 @@
+tensorflow
+python-multipart
+pillow
+tensorflow-serving-api
+matplotlib
+numpy
+Flask
+keras
+scikit-learn
+pandas
+matplotlib
+seaborn
+gunicorn
